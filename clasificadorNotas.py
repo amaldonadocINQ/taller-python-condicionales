@@ -4,7 +4,7 @@ n3 = float(input("Ingresa la tercera nota: "))
 if n1<=100 and n1>=0 and n2<=100 and n2>=0 and n3<=100 and n3>=0:
     promedio = (n1+n2+n3)/3
     if promedio >= 90:
-        tipo = "Excelente"
+        tipo = "Excelente :)"
     elif promedio >=80 and promedio<90:
         tipo = "Muy Bueno"
     elif promedio >=70 and promedio<80:
