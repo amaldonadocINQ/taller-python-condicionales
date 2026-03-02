@@ -15,4 +15,4 @@ if n1<=100 and n1>=0 and n2<=100 and n2>=0 and n3<=100 and n3>=0:
         tipo = "Reprobado"
     print (f"Las notas ingresadas fueron: {n1, n2, n3} \nEl promedio es: {promedio:.2f} \nLa clasificación final es: {tipo}")
 else:
-    "Error: Alguna nota es inválida"    
+    print("Error: Alguna nota es inválida")
