@@ -1,4 +1,4 @@
-Nombre del proyecto: Taller clase 7
+Nombre del proyecto: Taller clase #7
 Nombre del estudiante: Amelia Maldonado
 Curso: 
 Descipción del repositorio: Varios programas iniciales
